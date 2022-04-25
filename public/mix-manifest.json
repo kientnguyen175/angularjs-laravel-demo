@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/bootstrap.js": "/js/bootstrap.js",
+    "/js/image-uploader.js": "/js/image-uploader.js",
+    "/js/controllers/index.js": "/js/controllers/index.js",
+    "/js/controllers/task-controller.js": "/js/controllers/task-controller.js",
+    "/css/app.css": "/css/app.css",
+    "/css/index.css": "/css/index.css",
+    "/css/image-uploader.css": "/css/image-uploader.css",
+    "/css/_variables.css": "/css/_variables.css"
+}

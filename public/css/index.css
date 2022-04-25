@@ -1,0 +1,17 @@
+.task-image {
+  width: 150px;
+  height: 150px;
+}
+.task-image img {
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  transition: transform 0.2s;
+}
+.task-image img:hover {
+  /* IE 9 */
+  /* Safari 3-8 */
+  transform: scale(2);
+}
