@@ -13,4 +13,4 @@ yarn-error.log
 /public/bower_components/*
 .DS_Store
 /public/images/uploads/*
-.package-lock.json
+package-lock.json
